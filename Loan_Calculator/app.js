@@ -79,5 +79,5 @@ function showError(error)
 //clear error
 function clearError()
 {
-  document.querySelector('.alert').remove();
+  document.querySelector('.alert').remove()
 }
