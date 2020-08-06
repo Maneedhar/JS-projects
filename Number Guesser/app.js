@@ -62,7 +62,7 @@ guessBtn.addEventListener('click', function()
     }
     else
     {
-      //Game continues - answer wrong
+      //Game continues - wrong guess
 
       //change border color 
       guessInput.style.borderColor = 'red';
